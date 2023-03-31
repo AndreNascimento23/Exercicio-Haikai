@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿
+Console.Clear();
 
 Console.ForegroundColor = ConsoleColor.DarkCyan;
 Console.WriteLine("\nNa cidade, a lua:");
